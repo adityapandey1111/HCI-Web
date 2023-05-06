@@ -200,7 +200,7 @@
     font-size: 40px;
 }
 
-@media screen and (max-width:640px) {
+media screen and (max-width:640px) {
     #section-3 img{
         height: 150px;
         padding-bottom: 5%;
