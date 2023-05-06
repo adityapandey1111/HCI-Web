@@ -200,7 +200,6 @@
     font-size: 40px;
 }
 
-
 @media screen and (max-width:640px) {
     #section-3 img{
         height: 150px;
@@ -234,6 +233,36 @@
         background:linear-gradient(45deg,#9a89a9,rgb(112, 190, 17));
         color: white;
     }
+    /*section-2*/
+    #section-2{
+        display:block;
+        margin-left: 120px;
+    }
+    #section-2 .card{
+        width: 300px !important;
+        height:400px;
+        margin-bottom: 5%;
+    }
+    #section-2 .card img{
+        width:300px;
+        height: 200px;
+    }
+    #section-2 .card .card-title{
+         font-size:20px;
+    }
+    #section-2 .card .card-text{
+        font-size: 12px;
+    }
+    #section-4 .card .btn{
+        width: 120px;
+        font-size: 15px;
+        height: 30px;
+    }
+    #section-2 .card .btn:hover{
+        background:linear-gradient(45deg,#9a89a9,rgb(112, 190, 17));
+        color: white;
+    }
+
     #section-5 h5{
         font-size: 15px;
     }
@@ -286,21 +315,3 @@
         background:linear-gradient(45deg,#9a89a9,rgb(112, 190, 17));
         color: white;
     }
-    #section-5 h5{
-        font-size: 15px;
-    }
-    #section-5 a{
-        font-size: 15px;
-    }
-    #section-5 p{
-        font-size: 15px;
-    }
-    #section-5 .copyright{
-         font-size: 10px;
-    }
-    #section-5 .btn{
-        width: 100px;
-        padding: 0px;
-        height: 25px;
-    }
-}
