@@ -363,3 +363,31 @@ media screen and (max-width:640px) {
         height: 25px;
     }
 }
+#section-x {
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+    background-color:transparent!important;
+}
+#section-x .card{
+    background-color: #0b041e;
+    color: #d9ecea;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#section-x .card img{
+    height: 800px;
+    border: 2px;
+    border-radius: 20px;
+}
+#section-x .text
+{
+    text-align: center;
+    display: flex;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
