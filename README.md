@@ -4,4 +4,4 @@
 ## This Web page contains the download link of each features .exe
 
 ### This project is all about how you will control you windows operating system based devices using your hand gestures instead of mouse and keyboard.
-### For more details go the the project repo link :
+### For more details go the the project repo link : https://github.com/adityapandey1111/Human-Computer-Interaction-using-Gestures
