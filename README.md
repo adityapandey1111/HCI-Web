@@ -6,5 +6,5 @@
 ### This web page is build using HTML, CSS, javaScript, BootStrap, and IDE used is VSCode
 
 #### This project is all about how you will control you windows operating system based devices using your hand gestures instead of mouse and keyboard.
-#### For more details go the the project repo link : https://github.com/adityapandey1111/Human-Computer-Interaction-using-Gestures
-#### WbPage URL: https://adityapandey1111.github.io/Human-Computer-Interaction-using-Hand-Gesture/
+#### For more details go the the project repo link : [Repo](https://github.com/adityapandey1111/Human-Computer-Interaction-using-Gestures)
+#### WbPage URL: [Live](https://adityapandey1111.github.io/Human-Computer-Interaction-using-Hand-Gesture/)
