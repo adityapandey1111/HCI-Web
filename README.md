@@ -1,6 +1,6 @@
-![Screenshot (702)](https://github.com/adityapandey1111/Human-Computer-Interaction-using-Hand-Gesture/assets/114282369/044f4d35-c80d-49fc-9882-aba260f9caba)
+![Screenshot (703)](https://github.com/adityapandey1111/Human-Computer-Interaction-using-Hand-Gesture/assets/114282369/001bbd19-b28d-48da-9f69-3ed4ef705e9f)
 
-![Screenshot (700)](https://github.com/adityapandey1111/Human-Computer-Interaction-using-Hand-Gesture/assets/114282369/61964957-2f9a-44d4-bccd-85e9d52a2824)
+![Screenshot (705)](https://github.com/adityapandey1111/Human-Computer-Interaction-using-Hand-Gesture/assets/114282369/97ad5921-d72e-4e44-aed1-b3252cccc772)
 
 # Human-Computer-Interaction-using-Hand-Gesture
 ## This Web page contains the download link of each featured .exe
