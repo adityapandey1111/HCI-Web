@@ -170,8 +170,8 @@ tbody {
   margin-bottom: 3rem;
 }
 .carousel-inner img {
-  width: 82%;
-  border-radius: 300px;
+  width: 100%;
+/*   border-radius: 300px; */
 }
 #section-1 .btn {
   color: black;
@@ -306,8 +306,8 @@ tbody {
 
 @media screen and (max-width: 640px) {
   .carousel-inner img {
-    width: 75%;
-    border-radius: 300px;
+    width: 100%;
+/*     border-radius: 300px; */
   }
   .carousel-indicators [data-bs-target] {
     width: 2px;
@@ -437,8 +437,8 @@ tbody {
 
 @media screen and (max-width: 480px) {
   .carousel-inner img {
-    width: 75%;
-    border-radius: 300px;
+    width: 100%;
+/*     border-radius: 300px; */
   }
   .carousel-indicators [data-bs-target] {
     width: 2px;
