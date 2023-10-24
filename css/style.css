@@ -2,8 +2,8 @@
   margin: 0;
   padding: 0;
   scroll-behavior: smooth;
-  background: linear-gradient(180deg, #0e0909, rgb(30, 3, 60));
-  border-radius: 50px;
+/*   background: linear-gradient(180deg, #0e0909, rgb(30, 3, 60));
+  border-radius: 50px; */
 }
 .navbar-brand img {
   border-radius: 100px;
@@ -631,4 +631,13 @@ svg {
   padding: 10px;
   margin-top: 10px;
   background: none;
+}
+.d-md-block h3 {
+    padding: 10px;
+    margin-top: 10px;
+    background: none;
+    position: absolute;
+    z-index: 1;
+    left: 33%;
+    top: 20%;
 }
